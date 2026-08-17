@@ -1,0 +1,20 @@
+{
+  "id": "CactusMod-1.0.0",
+  "inheritsFrom": "1.0.0",
+  "type": "release",
+  "mainClass": "net.cactusmod.loader.Main",
+  "arguments": {
+    "game": []
+  },
+  "libraries": [
+    {
+      "name": "net.cactusmod:cactus-loader:1.0.0",
+      "downloads": {
+        "artifact": {
+          "url": "https://raw.githubusercontent.com/kolmoria/CactusModLoader/main/maven/net/cactusmod/cactus-loader/1.0.0/cactus-loader-1.0.0.jar",
+          "path": "net/cactusmod/cactus-loader/1.0.0/cactus-loader-1.0.0.jar"
+        }
+      }
+    }
+  ]
+}
